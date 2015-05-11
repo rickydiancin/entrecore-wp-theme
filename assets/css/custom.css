@@ -1,0 +1,7 @@
+/* CSS Document */
+input.error{
+	border: 1px solid #a94442;
+}
+label.error{
+	color: #a94442;
+}
